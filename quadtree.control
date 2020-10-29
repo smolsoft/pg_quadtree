@@ -1,0 +1,5 @@
+# calculate quadtree indexies
+comment = 'c functions for calculate quadtree indexies for points end rectangles'
+default_version = '1.0'
+module_pathname = '$libdir/quadtree.so'
+relocatable = true
